@@ -1,0 +1,14 @@
+/Users/emrahelis/Dizi_Devam/bin/Debug/net8.0/Dizi_Devam
+/Users/emrahelis/Dizi_Devam/bin/Debug/net8.0/Dizi_Devam.deps.json
+/Users/emrahelis/Dizi_Devam/bin/Debug/net8.0/Dizi_Devam.runtimeconfig.json
+/Users/emrahelis/Dizi_Devam/bin/Debug/net8.0/Dizi_Devam.dll
+/Users/emrahelis/Dizi_Devam/bin/Debug/net8.0/Dizi_Devam.pdb
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.AssemblyInfoInputs.cache
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.AssemblyInfo.cs
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.dll
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/refint/Dizi_Devam.dll
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.pdb
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.genruntimeconfig.cache
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/ref/Dizi_Devam.dll
