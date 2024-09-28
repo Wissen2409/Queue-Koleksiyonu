@@ -12,3 +12,4 @@
 /Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.pdb
 /Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.genruntimeconfig.cache
 /Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/ref/Dizi_Devam.dll
+/Users/emrahelis/Dizi_Devam/obj/Debug/net8.0/Dizi_Devam.sourcelink.json
